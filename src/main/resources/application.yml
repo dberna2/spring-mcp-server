@@ -1,1 +1,11 @@
-spring.application.name=spring-mcp-server
+spring:
+  application:
+    name: @project.artifactId@
+  main:
+    web-application-type: none
+    banner-mode: off
+  ai:
+    mcp:
+      server:
+        name: @project.artifactId@
+        version: @project.version@
