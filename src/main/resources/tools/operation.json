@@ -1,0 +1,27 @@
+{
+  "name": "listJavaOne",
+  "description": "List all java one presentations by year...",
+  "schema": {
+    "type": "object",
+    "id": "urn:jsonschema:Operation",
+    "properties": {
+      "year": {
+        "type": "integer",
+        "description": "Año de la presentación",
+        "enum": [2024, 2025],
+        "examples": [2024, 2025]
+      },
+      "type": {
+        "type": "string",
+        "description": "Tipo de presentación",
+        "oneOf": [
+          { "const": "A", "description": "Tipo A - Keynote" },
+          { "const": "C", "description": "Tipo C - Charla técnica" },
+          { "const": "D", "description": "Tipo D - Mis pelotas" }
+        ],
+        "examples": ["A", "C", "D"]
+      }
+    },
+    "required": ["year", "type"]
+  }
+}

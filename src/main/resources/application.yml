@@ -4,8 +4,15 @@ spring:
   main:
     web-application-type: none
     banner-mode: off
-  ai:
-    mcp:
-      server:
-        name: @project.artifactId@
-        version: @project.version@
+logging:
+  file:
+    name: mcp-server.log
+    path: ./catalog
+        #ai:
+   # mcp:
+    #  server:
+     #   name: @project.artifactId@
+      #  version: @project.version@
+        #sse-message-endpoint: /mcp/message
+       # sse-endpoint: /sse
+        #type: sync

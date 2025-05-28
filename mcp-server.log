@@ -1,0 +1,99 @@
+2025-05-28T20:46:10.032+02:00  INFO 58102 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58102 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:46:10.034+02:00  INFO 58102 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:46:10.286+02:00  INFO 58102 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:46:10.389+02:00  INFO 58102 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:46:10.420+02:00  INFO 58102 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.543 seconds (process running for 0.961)
+2025-05-28T20:47:35.836+02:00  INFO 58143 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58143 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:47:35.838+02:00  INFO 58143 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:47:36.076+02:00  INFO 58143 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:47:36.176+02:00  INFO 58143 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:47:36.207+02:00  INFO 58143 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.516 seconds (process running for 0.894)
+2025-05-28T20:48:05.357+02:00  INFO 58157 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58157 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:48:05.359+02:00  INFO 58157 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:48:05.600+02:00  INFO 58157 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:48:05.702+02:00  INFO 58157 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:48:05.733+02:00  INFO 58157 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.524 seconds (process running for 0.896)
+2025-05-28T20:49:03.025+02:00  INFO 58193 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58193 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:49:03.027+02:00  INFO 58193 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:49:03.259+02:00  INFO 58193 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:49:03.352+02:00  INFO 58193 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:49:03.385+02:00  INFO 58193 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.514 seconds (process running for 0.867)
+2025-05-28T20:51:10.653+02:00  INFO 58211 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58211 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:51:10.655+02:00  INFO 58211 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:51:10.895+02:00  INFO 58211 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:51:10.993+02:00  INFO 58211 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:51:11.025+02:00  INFO 58211 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.51 seconds (process running for 0.878)
+2025-05-28T20:51:47.453+02:00  INFO 58230 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58230 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:51:47.455+02:00  INFO 58230 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:51:47.687+02:00  INFO 58230 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:51:47.792+02:00  INFO 58230 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:51:47.823+02:00  INFO 58230 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.524 seconds (process running for 0.892)
+2025-05-28T20:52:40.177+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : Starting SpringMcpServerApplication using Java 21 with PID 58247 (/Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server/target/classes started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:52:40.178+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:52:40.196+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-05-28T20:52:40.196+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-05-28T20:52:40.456+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:53:12.904+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:53:12.939+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-05-28T20:53:12.954+02:00  INFO 58247 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : Started SpringMcpServerApplication in 32.973 seconds (process running for 34.139)
+2025-05-28T20:53:48.506+02:00  INFO 58282 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58282 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:53:48.508+02:00  INFO 58282 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:53:48.757+02:00  INFO 58282 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:53:48.862+02:00  INFO 58282 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:53:48.894+02:00  INFO 58282 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.541 seconds (process running for 0.94)
+2025-05-28T20:54:52.638+02:00  INFO 58313 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58313 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:54:52.640+02:00  INFO 58313 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:54:52.877+02:00  INFO 58313 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:54:52.973+02:00  INFO 58313 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:54:53.002+02:00  INFO 58313 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.51 seconds (process running for 0.874)
+2025-05-28T20:55:21.007+02:00  INFO 58326 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58326 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:55:21.009+02:00  INFO 58326 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:55:21.279+02:00  INFO 58326 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:55:21.375+02:00  INFO 58326 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:55:21.406+02:00  INFO 58326 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.544 seconds (process running for 0.924)
+2025-05-28T20:56:00.889+02:00  INFO 58346 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58346 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:56:00.890+02:00  INFO 58346 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:56:01.130+02:00  INFO 58346 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:56:01.233+02:00  INFO 58346 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:56:01.266+02:00  INFO 58346 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.524 seconds (process running for 0.915)
+2025-05-28T20:56:10.430+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : Starting SpringMcpServerApplication using Java 21 with PID 58355 (/Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server/target/classes started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:56:10.431+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:56:10.448+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2025-05-28T20:56:10.448+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2025-05-28T20:56:10.705+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:56:23.377+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:56:23.411+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-05-28T20:56:23.423+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : Started SpringMcpServerApplication in 13.189 seconds (process running for 13.728)
+2025-05-28T20:57:24.157+02:00  INFO 58374 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58374 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:57:24.159+02:00  INFO 58374 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:57:24.393+02:00  INFO 58374 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:57:24.489+02:00  INFO 58374 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:57:24.520+02:00  INFO 58374 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.505 seconds (process running for 0.873)
+2025-05-28T20:58:47.153+02:00  INFO 58417 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58417 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:58:47.155+02:00  INFO 58417 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:58:47.401+02:00  INFO 58417 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:58:47.500+02:00  INFO 58417 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:58:47.532+02:00  INFO 58417 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.524 seconds (process running for 0.894)
+2025-05-28T20:59:11.289+02:00  INFO 58355 --- [spring-mcp-server] [File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 8 class path changes (0 additions, 8 deletions, 0 modifications)
+2025-05-28T20:59:14.042+02:00  INFO 58447 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58447 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:59:14.044+02:00  INFO 58447 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:59:14.268+02:00  INFO 58447 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:59:14.363+02:00  INFO 58447 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:59:14.394+02:00  INFO 58447 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.494 seconds (process running for 0.858)
+2025-05-28T20:59:14.428+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : Starting SpringMcpServerApplication using Java 21 with PID 58355 (/Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server/target/classes started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:59:14.429+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:59:14.477+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:59:25.027+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:59:25.038+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2025-05-28T20:59:25.043+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] c.d.m.s.SpringMcpServerApplication       : Started SpringMcpServerApplication in 10.626 seconds (process running for 195.344)
+2025-05-28T20:59:25.044+02:00  INFO 58355 --- [spring-mcp-server] [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2025-05-28T20:59:34.968+02:00  INFO 58469 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58469 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T20:59:34.970+02:00  INFO 58469 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T20:59:35.215+02:00  INFO 58469 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T20:59:35.314+02:00  INFO 58469 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T20:59:35.347+02:00  INFO 58469 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.521 seconds (process running for 0.882)
+2025-05-28T21:01:13.212+02:00  INFO 58522 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Starting SpringMcpServerApplicationTests using Java 21 with PID 58522 (started by leobernal in /Users/leobernal/Documents/java/spring-mcp-server/spring-mcp-server)
+2025-05-28T21:01:13.213+02:00  INFO 58522 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : No active profile set, falling back to 1 default profile: "default"
+2025-05-28T21:01:13.464+02:00  INFO 58522 --- [spring-mcp-server] [main] c.d.m.s.config.ToolConfiguration         : Tool definition loaded [listJavaOne]
+2025-05-28T21:01:13.566+02:00  INFO 58522 --- [spring-mcp-server] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered prompts: 1, notification: true
+2025-05-28T21:01:13.597+02:00  INFO 58522 --- [spring-mcp-server] [main] c.d.m.s.SpringMcpServerApplicationTests  : Started SpringMcpServerApplicationTests in 0.535 seconds (process running for 0.931)
